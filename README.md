@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 * 🔭 I’m currently working on:
-  * Rank aggregation problem in the context of recommendation systems.
-  * Metric learning.
-  * Evolutionary computation.
+  * Rank Aggregation Problem in the context of Recommendation Systems.
+  * Metric Learning.
+  * Evolutionary Computation.
 * 🌱 I’m currently learning about Metric Learning.
 * 📫 How to reach me: michal.balchanowski.work@gmail.com
